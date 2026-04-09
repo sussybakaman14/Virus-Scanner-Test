@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Author](https://img.shields.io/badge/author-sussybakaman14-red)
-![Made in Italy](https://img.shields.io/badge/made_in-Italy-green)
+![Made in Italy](https://img.shields.io/badge/made_in-Italy-brightgreen)
 ![Language](https://img.shields.io/badge/language-C-blue)
 
 
