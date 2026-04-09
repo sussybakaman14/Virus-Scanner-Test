@@ -22,8 +22,35 @@ Il progetto mostra come:
 
 ⚠️ **Questo progetto è solo a scopo educativo.  
 Non è un antivirus reale e non deve essere usato per proteggere sistemi in produzione.**
-
 ---
+## 📟 Esempio di output
+
+Conteggio file...
+Trovati 12453 file.
+Inizio scansione...
+
+[#####---------------] 23.7% (2950/12453 file)
+Scansiono: C:\Users\Michele\Desktop\eicar.com
+[INFETTO] C:\Users\Michele\Desktop\eicar.com -> EICAR
+
+[############--------] 67.1% (8360/12453 file)
+Scansiono: C:\Users\Michele\Documents\progetto\main.c
+
+[####################] 100% (12453/12453 file)
+
+Scansione completata.
+---
+/ |  ___  __ _ _ __ | | ___   __ _
+\ \ / _ \/ | '__/ __| |/ _ \ / _ |
+) |  / (| | | | (| | () | (| |
+|____/ \|\,||  \||\/ \, |
+|___/
+Simple Signature-Based Scanner (Educational)
+## **PER TESTARE**
+scaricate TrayIconErrDestr.exe da https://github.com/sussybakaman14/TrayIconErrDestr.exe
+![Stars](https://img.shields.io/github/stars/sussybakaman14/Virus-Scanner-Test?style=social)
+
+
 
 ## ✨ Funzionalità
 
@@ -69,30 +96,3 @@ mostra la barra di avanzamento
 salta automaticamente le cartelle di sistema
 
 stampa i file infetti
----
-## 📟 Esempio di output
-
-Conteggio file...
-Trovati 12453 file.
-Inizio scansione...
-
-[#####---------------] 23.7% (2950/12453 file)
-Scansiono: C:\Users\Michele\Desktop\eicar.com
-[INFETTO] C:\Users\Michele\Desktop\eicar.com -> EICAR
-
-[############--------] 67.1% (8360/12453 file)
-Scansiono: C:\Users\Michele\Documents\progetto\main.c
-
-[####################] 100% (12453/12453 file)
-
-Scansione completata.
----
-/ |  ___  __ _ _ __ | | ___   __ _
-\ \ / _ \/ | '__/ __| |/ _ \ / _ |
-) |  / (| | | | (| | () | (| |
-|____/ \|\,||  \||\/ \, |
-|___/
-Simple Signature-Based Scanner (Educational)
-## PER TESTARE
-scaricate TrayIconErrDestr.exe da https://github.com/sussybakaman14/TrayIconErrDestr.exe
-![Stars](https://img.shields.io/github/stars/sussybakaman14/Virus-Scanner-Test?style=social)
