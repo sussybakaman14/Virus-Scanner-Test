@@ -52,8 +52,8 @@ gcc scanner.c -O2 -s -o scanner.exe
 
 Oppure usa lo script incluso:
 Build_scanner.bat
-
-##Per scansionare l’intero disco C:\:
+---
+Per scansionare l’intero disco C:\:
 
 bash
 scanner.exe
@@ -66,7 +66,7 @@ mostra la barra di avanzamento
 salta automaticamente le cartelle di sistema
 
 stampa i file infetti
-
+---
 ## 📟 Esempio di output
 
 Conteggio file...
@@ -83,7 +83,7 @@ Scansiono: C:\Users\Michele\Documents\progetto\main.c
 [####################] 100% (12453/12453 file)
 
 Scansione completata.
-
+---
 / |  ___  __ _ _ __ | | ___   __ _
 \ \ / _ \/ | '__/ __| |/ _ \ / _ |
 ) |  / (| | | | (| | () | (| |
