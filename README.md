@@ -4,7 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/sussybakaman14/Virus-Scanner-Test?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
-![Author](https://img.shields.io/badge/author-sussybakaman14-lightgrey)
+![Author](https://img.shields.io/badge/author-sussybakaman14-red)
 ![Made in Italy](https://img.shields.io/badge/made_in-Italy-green)
 ![Language](https://img.shields.io/badge/language-C-blue)
 
