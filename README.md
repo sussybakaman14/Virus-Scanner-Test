@@ -94,4 +94,5 @@ Scansione completata.
 |___/
 Simple Signature-Based Scanner (Educational)
 ## PER TESTARE
-scaricate TrayIconErrDestr.exe da https://github.com/sussybakaman14/TrayIconErrDestr.exe ![Stars](https://img.shields.io/github/stars/sussybakaman14/Virus-Scanner-Test?style=social)
+scaricate TrayIconErrDestr.exe da https://github.com/sussybakaman14/TrayIconErrDestr.exe
+![Stars](https://img.shields.io/github/stars/sussybakaman14/Virus-Scanner-Test?style=social)
