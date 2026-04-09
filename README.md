@@ -2,6 +2,7 @@
 # Simple Signature-Based File Scanner (Educational Project)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Stars](https://img.shields.io/github/stars/sussybakaman14/Virus-Scanner-Test?style=social)
+![Stars](https://img.shields.io/github/stars/sussybakaman14/TrayIconErrDestr?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![Author](https://img.shields.io/badge/author-sussybakaman14-red)
