@@ -8,7 +8,7 @@
 ![Author](https://img.shields.io/badge/author-sussybakaman14-red)
 ![Made in Italy](https://img.shields.io/badge/made_in-Italy-brightgreen)
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Analysis](https://img.shields.io/badge/analysis-unsafe_sample-brightgreen)
+![Analysis](https://img.shields.io/badge/analysis-safe_sample-brightgreen)
 
 Un semplice scanner antivirus didattico scritto in C per Windows, basato su firme binarie.  
 Il progetto mostra come:
